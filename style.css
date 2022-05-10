@@ -1,0 +1,54 @@
+.container {
+    width: 600px;
+    border: solid;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px gray;
+}
+
+.search {
+
+    padding-top: 10px;
+}
+
+#temp-convert {
+    font-size: medium;
+}
+
+.current-temp {
+    font-size: 70px;
+    position: relative;
+    left: 50px;
+
+}
+
+.city {
+
+    font-size: 40px;
+}
+
+.current-image {
+    position: relative;
+    bottom: 20px;
+    width: 90px;
+}
+
+h6 {
+    position: relative;
+    left: 20px;
+    bottom: 10px;
+}
+
+.conditions, p{
+    text-align: center;
+    position: relative;
+    left: 35px;
+}
+
+.forcast {
+    position: relative;
+    left: 50px;
+}
+h1 {
+    position: relative;
+    top: 60px;
+}
